@@ -34,17 +34,6 @@ Apresentação:
   Consequentemente estou constantemente estudando e buscando novos conhecimentos e perspectivas nessa área.
   Além de ser um dos meus hobbies favoritos.
 
-Escolaridade:
--------------
-
-  - Cursando pós-graduação em Engenharia de Software na UFRJ
-  - Formado no curso superior de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
-  - Ensino médio técnico em Processamento de Dados, Colégio Souza Lima
-
-#### Idiomas:
-
-  - Inglês: Leitura avançada, escrita e pronuncia intermediária.
-
 Experiência Profissional:
 -------------------------
 
@@ -64,7 +53,7 @@ Experiência Profissional:
 
   *Função*: Analista de Sistemas/Desenvolvedor Web Pleno
 
-  Principais Ferramentas/Tecnologias Utilizadas: PHP, Perl, Javascript (mootools), Java, MySQL, Postgres, Oracle, Linux/Solaris.
+  Principais ferramentas e tecnologias utilizadas: PHP, Perl, Javascript (mootools), Java, MySQL, Postgres, Oracle, Linux/Solaris.
   Modelagem, desenvolvimento e manutenção de sistemas, frameworks e soluções de software para
   plataformas de Ensino a Distância na área de Saúde Pública. Participando do principal grupo de
   desenvolvimento das plataformas de ensino e administração acadêmica do setor de EAD da ENSP/Fiocruz.
@@ -92,15 +81,31 @@ Experiência Profissional:
 Formação:
 ---------
 
+#### Escolaridade:
+
+  - Cursando pós-graduação em Engenharia de Software na UFRJ
+  - Formado no curso superior de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
+  - Ensino médio técnico em Processamento de Dados, Colégio Souza Lima
+
+#### Idiomas:
+
+  - Inglês: Leitura avançada, escrita e pronuncia intermediária.
+
 #### Cursos:
 
-  - SAS Institute Brasil (2011)
-  - Treinamento SAS Enterprise Guide 1: Querying and Reporting: 8 horas
-  - JMP® Software: Data Exploration
-  - Geologia para não Geólogos: 24 horas - ABGP/ANP (2011)
+  - SAS Institute Brasil (agosto/2011)
+
+      SAS Enterprise Guide 1: Querying and Reporting: 8 horas
+
+      JMP® Software: Data Exploration
+
+  - Geologia para não Geólogos: 24 horas - ABGP/ANP (março/2011)
+
   - Java e Orientação a Objetos: 40 horas - Caelum (2009)
-  - Java para Desenvolvimento Web: 40 horas - METASERVER (2004)
-  - Linux Engineer: 160 horas - UNIVERSIDADE ESTÁCIO DE SÁ UNESA (2003)
+
+  - Java para Desenvolvimento Web: 40 horas - Caelum (2009)
+
+  - Linux Engineer: 160 horas - METASERVER (2004)
 
 #### Certificados:
 
@@ -117,43 +122,39 @@ Formação:
 
 #### Projetos acadêmicos:
 
-  **Co-autor tese de mestrado (2008)**
-  *NCE/UFRJ*
+  * **Co-autor tese de mestrado (2008)**
+    *NCE/UFRJ*
 
-  Arquitetuta de avaliação educacional em fórum de discussão temático
-  desenvolvido em RubyOnRails, MySQL e Mootools (JS).
-  Tese de mestrado do ex-aluno,Marcus Vinicius Ferreira Gonçalves,
-  do curso de Mestrado em Informatica do NCE, formado em 2008.
+    Arquitetuta de avaliação educacional em fórum de discussão temático
+    desenvolvido em RubyOnRails, MySQL e Mootools (JS).
+    Tese de mestrado do ex-aluno,Marcus Vinicius Ferreira Gonçalves,
+    do curso de Mestrado em Informatica do NCE, formado em 2008.
 
-  Participação:
+    Desenvolvi e participei da modelagem da base de dados, das interfaces
+      e arquitetura do sistema.
 
-  - Desenvolvi e participei da modelagem da base de dados, das interfaces
-    e arquitetura do sistema.
+    Ferramentas desenvolvidas:
 
-  Ferramentas desenvolvidas:
-
-  - Ferramentas para avaliação e construção de instrumentos de avaliação
-  - Relatórios avaliativos, quantitativos e qualitativos
-  - Importação, adiministração de perfís e usuários orientado ao fórum
-  - Alertas e tarefas de apoio a avaliação de usuários
+    - Ferramentas para avaliação e construção de instrumentos de avaliação
+    - Relatórios avaliativos, quantitativos e qualitativos
+    - Importação, adiministração de perfís e usuários orientado ao fórum
+    - Alertas e tarefas de apoio a avaliação de usuários
 
 
-  **Projeto final Análise de Sistemas (2008)**
-  *UNIVERSIDADE ESTÁCIO DE SÁ*
+  * **Projeto final Análise de Sistemas (2008)**
 
-  Sistema e-comerce de empresa de turismo, desenvolvido em PHP e Postgres
+    *Universidade Estácio de Sá*
 
-  Participação:
+    Sistema e-comerce de empresa de turismo, desenvolvido em PHP e Postgres
 
-  - Especificação, modelagem e implementação do banco de dados e do sistema
+    Fui responsável pela especificação, modelagem e implementação do banco de dados e do sistema
 
 
-  **Projeto final - G.A. Software Livre (2005)**
-  *UNIVERSIDADE ESTÁCIO DE SÁ*
+  * **Projeto final - G.A. Software Livre (2005)**
 
-  Sistema de gerenciamento de empresa de transportes desenvolvido em PHP e MySQL
+    *Universidade Estácio de Sá*
 
-  Participação:
+    Sistema de gerenciamento de empresa de transportes desenvolvido em PHP e MySQL
 
-  - Desenvolvimento e modelagem de sistema de gerenciamento logístico para empresa de transportes de pequeno porte
+    Fui responsável pela implementação
 

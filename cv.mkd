@@ -1,9 +1,159 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área Mobile ou Área de Jornalismo
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados Pessoais:
+---------------
+
+  Felipe Ramos Ferreira, 27 anos, Rio de Janeiro, Copacabana.
+
+Apresentação:
+-------------
+
+  Estou buscando um local de trabalho capaz de absorver minha dedicação e entusiasmo no
+  desenvolvimento de sistemas e soluções em tecnologia.
+
+  Atualmente trabalho desenvolvendo sistemas para o setor de Óleo & Gás, desenvolvidos em
+  RubyOnRails, Java, Javascript (MooTools, JQuery, Openlayers, outros), Postgis, Postgres e Oracle.
+  A principal metodologia utilizada é a Scrum.
+
+  Também trabalhei desenvolvendo de sistemas acadêmicos e de ensino a distância na Fiocruz,
+  especificamente do núcleo de Educação a Distância da ENSP,
+  utilizando Perl (ModPerl2, RoseDB, Moose), Postgres, PHP e MySQL. A metodologia adota foi a XP.
+
+  Minha formação em tecnologia também é fundamentada em sistemas Unix/Linux e Software Livre,
+  tendo inclusive trabalhado na gestão técnica de servidores de email (Postfix), web (Apache, Nginx), e
+  demais serviços típicos de uma infraestrutura baseada em Software Livre.
+
+  Seguramente desenvolver software, explorar os variadas técnicas e paradigmas de desenvolvimento de sistemas,
+  e estudar todos os seus aspectos é a atividade que mais me motiva.
+  Consequentemente estou constantemente estudando e buscando novos conhecimentos e perspectivas nessa área.
+  Além de ser um dos meus hobbies favoritos.
+
+Escolaridade:
+-------------
+
+  - Cursando pós-graduação em Engenharia de Software na UFRJ
+  - Formado no curso superior de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
+  - Ensino médio técnico em Processamento de Dados, Colégio Souza Lima
+
+#### Idiomas:
+
+  - Inglês: Leitura avançada, escrita e pronuncia intermediária.
+
+Experiência Profissional:
+-------------------------
+
+  **HRT O&G/IPEX**
+  05/2010 - atualidade
+
+  *Função*: Analista de Sistemas/Desenvolvedor Pleno
+
+  Análise e desenvolvimento de sistemas GIS e de gestão de conhecimento e bancos de dados corporativos
+  para área de O&G, e ferramentas administrativas e de apoio.
+  Também gerencio e administro os servidores de desenvolvimento. Modelagem de sistemas e bancos de dados corporativos.
+  As principais tecnologias utlizadas são:
+  Ruby, RubyOnRails, Javascript (Mootools, JQuery, OpenLayers), Postgres, Oracle e Java.
+
+  **Fiocruz/ENSP/EAD**
+  02/2006 - 05/2010
+
+  *Função*: Analista de Sistemas/Desenvolvedor Web Pleno
+
+  Principais Ferramentas/Tecnologias Utilizadas: PHP, Perl, Javascript (mootools), Java, MySQL, Postgres, Oracle, Linux/Solaris.
+  Modelagem, desenvolvimento e manutenção de sistemas, frameworks e soluções de software para
+  plataformas de Ensino a Distância na área de Saúde Pública. Participando do principal grupo de
+  desenvolvimento das plataformas de ensino e administração acadêmica do setor de EAD da ENSP/Fiocruz.
+
+  **Cannopus (estrelaguia.com.br, netcard.com.br, torpedo.com.br, bemleve.com.br)**
+  09/2005 - 02/2006
+
+  *Função*: Administrador de Sistemas Web, programador PHP e Shell Script
+
+  Administração de servidores Linux e FreeBSD. Responsável por manter serviços de email (Postfix),
+  web (Apache) e banco de dados (MySQL). Desenvolvimento de scripts para automação de processos,
+  soluções de integração entre serviços, segurança e qualidade para e markenting. Programação PHP
+  para geração de relatórios e extração de dados.
+
+  **Escola Dinâmica do Ensino Moderno**
+  08/2004 - 09/2005
+
+  *Função*: Analista de Suporte e Administrador de Redes
+
+  Especificação: Rede Linux (estações de usuário e servidores) Debian e Slackware.
+  Implementações: Postfix, Apache, Icecast, Open Mosix (cluster), NIS/NFS, firewall Iptables,
+  conexão dial (mgetty).
+  Estações Windows: Windows 98, samba.
+
+Formação:
+---------
+
+#### Cursos:
+
+  - SAS Institute Brasil (2011)
+  - Treinamento SAS Enterprise Guide 1: Querying and Reporting: 8 horas
+  - JMP® Software: Data Exploration
+  - Geologia para não Geólogos: 24 horas - ABGP/ANP (2011)
+  - Java e Orientação a Objetos: 40 horas - Caelum (2009)
+  - Java para Desenvolvimento Web: 40 horas - METASERVER (2004)
+  - Linux Engineer: 160 horas - UNIVERSIDADE ESTÁCIO DE SÁ UNESA (2003)
+
+#### Certificados:
+
+  - SAS Enterprise Guide (SAS)
+  - JMP Data Exploration (SAS)
+  - Geologia para não Geólogos (ABGP)
+  - Sun Java Programmer (SCJP5)
+  - Java e Orientação a Objetos (Caelum)
+  - Java para Desenvolvimento Web (Caelum)
+  - Programação Orientada a Objetos - Java (AOPEC)
+  - Programação Avançada (Swing, AWT, JDBC, RMI, Applets) - Java (AOPEC)
+  - Linux Engineer (Metaserver)
+  - MoodleMoot Brasil - (Mackenzie)
+
+#### Projetos acadêmicos:
+
+  **Co-autor tese de mestrado (2008)**
+  *NCE/UFRJ*
+
+  Arquitetuta de avaliação educacional em fórum de discussão temático
+  desenvolvido em RubyOnRails, MySQL e Mootools (JS).
+  Tese de mestrado do ex-aluno,Marcus Vinicius Ferreira Gonçalves,
+  do curso de Mestrado em Informatica do NCE, formado em 2008.
+
+  Participação:
+
+  - Desenvolvi e participei da modelagem da base de dados, das interfaces
+    e arquitetura do sistema.
+
+  Ferramentas desenvolvidas:
+
+  - Ferramentas para avaliação e construção de instrumentos de avaliação
+  - Relatórios avaliativos, quantitativos e qualitativos
+  - Importação, adiministração de perfís e usuários orientado ao fórum
+  - Alertas e tarefas de apoio a avaliação de usuários
+
+
+  **Projeto final Análise de Sistemas (2008)**
+  *UNIVERSIDADE ESTÁCIO DE SÁ*
+
+  Sistema e-comerce de empresa de turismo, desenvolvido em PHP e Postgres
+
+  Participação:
+
+  - Especificação, modelagem e implementação do banco de dados e do sistema
+
+
+  **Projeto final - G.A. Software Livre (2005)**
+  *UNIVERSIDADE ESTÁCIO DE SÁ*
+
+  Sistema de gerenciamento de empresa de transportes desenvolvido em PHP e MySQL
+
+  Participação:
+
+  - Desenvolvimento e modelagem de sistema de gerenciamento logístico para empresa de transportes de pequeno porte
+

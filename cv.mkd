@@ -89,7 +89,7 @@ Formação:
 
 #### Idiomas:
 
-  - Inglês: Leitura avançada, escrita e pronuncia intermediária.
+  - Inglês: Leitura avançada, escrita e pronuncia intermediaria.
 
 #### Cursos:
 
@@ -125,9 +125,9 @@ Formação:
   * **Co-autor tese de mestrado (2008)**
     *NCE/UFRJ*
 
-    Arquitetuta de avaliação educacional em fórum de discussão temático
+    Arquitetura de avaliação educacional em fórum de discussão temático
     desenvolvido em RubyOnRails, MySQL e Mootools (JS).
-    Tese de mestrado do ex-aluno,Marcus Vinicius Ferreira Gonçalves,
+    Tese de mestrado do ex-aluno, Marcus Vinicius Ferreira Gonçalves,
     do curso de Mestrado em Informatica do NCE, formado em 2008.
 
     Desenvolvi e participei da modelagem da base de dados, das interfaces

@@ -9,7 +9,7 @@ CV
 Dados Pessoais:
 ---------------
 
-  Felipe Ramos Ferreira, 27 anos, Rio de Janeiro, Copacabana.
+  Felipe Ramos Ferreira, 28 anos, Rio de Janeiro, Copacabana.
 
 Apresentação:
 -------------
@@ -37,8 +37,15 @@ Apresentação:
 Experiência Profissional:
 -------------------------
 
+  **Globo.com**
+  04/2012 - atualidade
+
+  *Função*: Desenvolvedor Web Pleno
+
+  Desenvolvimento de sistemas e soluções para o G1.
+
   **HRT O&G/IPEX**
-  05/2010 - atualidade
+  05/2010 - 04-2012
 
   *Função*: Analista de Sistemas/Desenvolvedor Pleno
 

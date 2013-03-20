@@ -93,6 +93,7 @@ Formação:
   - Cursando pós-graduação em Engenharia de Software na UFRJ
   - Formado no curso superior de Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá
   - Ensino médio técnico em Processamento de Dados, Colégio Souza Lima
+  - Ensino médio técnico em Eletrônica, ETE Visconde de Mauá
 
 #### Idiomas:
 
